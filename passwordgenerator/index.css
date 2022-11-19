@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 50px;
+    background-color: #1F2937;
+    font-family: 'Karla', sans-serif;
+    color: #4ADF86;
+}
+
+#emphasizeTxt {
+    color: white;
+}
+
+#emphasizeTxtTwo {
+    color: #D5D4D8;
+}
+
+#generateBtn {
+    background-color: #10B981;
+    color: white;
+    padding: 9px, 17px, 9px, 15px;
+    border-radius: 6px;
+    height: 42px;
+    width: 191px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #10B981;
+}
+
+#pwordOneBlock, #pwordTwoBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#passwordOne, #passwordTwo {
+    border: solid 1px #273549;
+    background-color: #273549;
+    border-radius: 6px;
+    padding: 10px 55px;
+    text-align: center;
+    margin-right: 24px;
+    width: 200px;  
+}
+
+
+#horizontal {
+    border: 1px solid #2F3E53;
+}
+
+#checkboxChar, #checkboxSym {
+    margin: 10px;
+}
+
+#copyBtnOne, #copyBtnTwo {
+    background-color: #10B981;
+    color: white;
+    padding: 9px, 17px, 9px, 15px;
+    border-radius: 6px;
+    height: 42px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #10B981;
+}
